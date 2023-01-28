@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+.navbar img{
+    width: 86pt;
+    height: 25pt;
+}
+
+.card{
+    margin-top: 18px;
+    margin-bottom: 12px;
+}
+.card-body{
+    padding-bottom: 0%;
+}
+.card-text{
+font-size: 20pt;
+margin-bottom: 11px;
+}
+.card-titulo{
+    font-size: 16px;
+    color: #707070;
+    margin-bottom: 0%;
+}
+.img {
+    width: 278px;
+    height: 180px;
+}
+.location p{ 
+    display: inline-block;
+    font-size: 12.80px;
+    color: #707070;
+    margin-bottom: 0%;
+}
+.precios p{
+    display: inline-block;
+
+}
+.original{
+    color: #707070;
+    font-size: 16px;
+    padding-left: 113px;
+}
+.oferta{
+    color: #28A745;
+    font-size: 20px;
+    padding-left: 0.5em;
+}
+
+.formulario{
+    background-color: #28A745;
+    font-size: 21px;
+    padding-top: 25px;
+}
+
+.footer p{
+    font-size: 16px;
+    color: #707070;
+    margin-bottom: 22px;
+}
+
+.footer img{
+    margin-top: 24px;
+    margin-bottom: 10px;
+    width: 86pt;
+    height: 25pt;
+}
+
